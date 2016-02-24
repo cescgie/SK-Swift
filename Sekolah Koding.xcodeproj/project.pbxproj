@@ -487,6 +487,7 @@
 				4AAD14481C7DC98B00DBA4A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4AAD14491C7DC98B00DBA4A0 /* Build configuration list for PBXNativeTarget "Sekolah KodingTests" */ = {
 			isa = XCConfigurationList;
@@ -495,6 +496,7 @@
 				4AAD144B1C7DC98B00DBA4A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4AAD144C1C7DC98B00DBA4A0 /* Build configuration list for PBXNativeTarget "Sekolah KodingUITests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +505,7 @@
 				4AAD144E1C7DC98B00DBA4A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
